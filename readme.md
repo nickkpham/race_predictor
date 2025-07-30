@@ -1,0 +1,1 @@
+# Trying to make a better version of a race predictor for Garmin/Coros using a mixture of Jack Daniels' VDOT and my own personal methods learned from experience. 
